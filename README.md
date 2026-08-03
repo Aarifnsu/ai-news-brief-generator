@@ -1,4 +1,4 @@
-# AI News Brief Generator (Project 1 of 5)
+# AI News Brief Generator
 
 Automatically collects public news from trusted RSS sources, analyzes each article with an AI model, and publishes a formatted daily brief to Google Docs (with an optional email notification).
 
